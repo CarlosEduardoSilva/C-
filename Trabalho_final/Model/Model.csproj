@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cliente_Filme_Model.cs" />
     <Compile Include="Cliente_Model.cs" />
     <Compile Include="Filme_Model.cs" />
     <Compile Include="Plano_Model.cs" />
