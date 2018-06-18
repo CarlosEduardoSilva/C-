@@ -8,5 +8,7 @@ namespace Model
 {
 	class Serie_Model
 	{
+
+
 	}
 }
