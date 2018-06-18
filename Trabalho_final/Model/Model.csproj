@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Cliente_Filme_Model.cs" />
     <Compile Include="Cliente_Model.cs" />
+    <Compile Include="Cliente_Serie_Model.cs" />
     <Compile Include="Filme_Model.cs" />
     <Compile Include="Plano_Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
